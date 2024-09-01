@@ -26,18 +26,6 @@ No changes reported for this release.
 
 <!-- /.features -->
 
-<section class="issues">
-
-### Closed Issues
-
-This release closes the following issue:
-
-[#809 ](https://github.com/stdlib-js/stdlib/issues/809 )
-
-</section>
-
-<!-- /.issues -->
-
 <section class="commits">
 
 ### Commits
@@ -57,10 +45,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 1 person contributed to this release. Thank you to this contributor:
 
 -   Chinmay Joshi
--   stdlib-bot
 
 </section>
 
