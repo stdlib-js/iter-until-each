@@ -112,8 +112,8 @@ The returned iterator protocol-compliant object has the following properties:
 
 Both the `predicate` function and the function to invoke for each iterated value are provided two arguments:
 
--   **value**: iterated value
--   **index**: iteration index (zero-based)
+-   **value**: iterated value.
+-   **index**: iteration index (zero-based).
 
 ```javascript
 var array2iterator = require( '@stdlib/array-to-iterator' );
@@ -253,6 +253,12 @@ while ( true ) {
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/iter-while-each`][@stdlib/iter/while-each]</span><span class="delimiter">: </span><span class="description">create an iterator which, while a test condition is true, invokes a function for each iterated value before returning the iterated value.</span>
+
 </section>
 
 <!-- /.related -->
@@ -283,7 +289,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -328,6 +334,12 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/iter-until-each/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/iter-until-each/main/LICENSE
+
+<!-- <related-links> -->
+
+[@stdlib/iter/while-each]: https://github.com/stdlib-js/iter-while-each
+
+<!-- </related-links> -->
 
 </section>
 
